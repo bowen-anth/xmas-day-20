@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div-element {
+    display: flex;
+    margin: 25vh 10rem;
+}
+
+.emoji-item {
+    justify-content: center;
+    margin: 2rem auto;
+    align-content: center;
+    font-size: 5rem;
+}
